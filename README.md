@@ -2,8 +2,6 @@
 
 Breakdown of individual Data Science skill drills
 
-Part (1) Advanced SQL practice questions  
+Part (1) Hackerrank & Codility Algo (Easy & Medium) 
 
-Part (2) Medium level or above algorithm practice (Hackerrank) 
-
-Part (3) Notes & code for math behind ML
+Part (2) Code for ML Algos from scratch 
