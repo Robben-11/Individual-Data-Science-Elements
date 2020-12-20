@@ -1,3 +1,9 @@
+
+
+# Question asks for the minimum absolute difference in an unsorted list
+# Sorted the list in an ascending order and turn the question into finding the difference between adjacent elements 
+# Worst case complexity: O(nlogn + n) 
+
 def minimumAbsoluteDifference(arr):
 
     arr = sorted(arr) 
