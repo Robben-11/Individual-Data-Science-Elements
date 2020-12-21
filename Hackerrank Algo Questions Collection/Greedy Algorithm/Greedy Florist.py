@@ -1,3 +1,4 @@
+
 def getMinimumCost(k, c):
     
     c = sorted(c, reverse=True)
