@@ -1,4 +1,9 @@
 
+
+# get the sorted cost of flowers in descending order 
+# pirchase will start from the most expensive flower, recorder the number of purchase for each person 
+# multiple the cost with new times of the purchases when every person has purchased for one round 
+# Rotate through rounds
 def getMinimumCost(k, c):
     
     c = sorted(c, reverse=True)
