@@ -1,4 +1,8 @@
+# use li_to get a sorted list of the cost of important contests. sorted with descending order from the largets cost 
+# use l_ui to extract list of costs of unimportnat contests. usorted. 
 
+# Take the required summation of and subtraction specfiied by the question
+# Approximate Worsts case complexity: O(nlog(n)+4n) !!! Can be reduced further here.
 
 def luckBalance(k, contests):
     
